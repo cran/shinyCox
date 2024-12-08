@@ -1,12 +1,12 @@
-16ee9000c370a2f354e38003d0cfdc77 *DESCRIPTION
+14d234449321488ead3a0e1360418ca3 *DESCRIPTION
 897eee483f72c01e7c02c7fb70a1d910 *NAMESPACE
-dfc86f6ee169b8aaf61924115e1f08da *NEWS.md
+01f8760cc0cffd170851b374ffd79c3a *NEWS.md
 1340225ff71b44df6033505c653d9f79 *R/confints.R
 6faf3c6397193210df2e8c66564fb778 *R/cox_predictions.R
-6af4888918aded2d41b7432192c1af42 *R/misc_functions.R
-a3cd1c89086d79ff8541fdc1575bb670 *R/shine_coxph.R
+d6eddb6eb26f87a5ae0d60f49cd01568 *R/misc_functions.R
+0b6ab6e7542ce8543ba0a7e7d9c87c45 *R/shine_coxph.R
 aa29f41d898808dc7d851ae291df477c *R/shiny_blocks.R
-3e560fdae13b480e297e380835cc8ac8 *R/shinybuilder.R
+7e5c2ccddd1cf83c3af4fdcdb2e66783 *R/shinybuilder.R
 186c1b528b5f633404ea8be53d275304 *README.md
 258c6a0ba12f96ead13f87a951285a81 *man/cox_KM_plots.Rd
 0aa44140e1b1d2993c51d28234dcf0a6 *man/cox_times_table.Rd
